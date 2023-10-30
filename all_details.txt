@@ -1,0 +1,14 @@
+Name: kyugu
+Weight: 50.0
+Height: 2.0
+BMI: 12.5
+Condition: Underweight
+You have to increase your weight by at least 24.0 kg
+
+Name: iygy
+Weight: 80.0
+Height: 2.3
+BMI: 15.12287334593573
+Condition: Underweight
+You have to increase your weight by at least 17.864999999999984 kg
+
